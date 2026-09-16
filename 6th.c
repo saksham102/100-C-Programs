@@ -3,7 +3,7 @@
 int main(){
     int a, b, product;
 
-    printf("aenter two no. : ");
+    printf("enter two no. : ");
     scanf("%d %d",&a,&b);
 
     product = a*b;
